@@ -57,6 +57,7 @@ ul, ol {
 .clearfix {
 	display: inline-block;
 }
+
 * html .clearfix {
 	height: 1%;
 }
@@ -77,6 +78,10 @@ hr {
 	margin: 0 auto;
 	margin-bottom: 30px;
 	border: 0;
+}
+#header {
+	height: 100%;
+	width: 100%;
 }
 /* Navigation */
 #nav {
